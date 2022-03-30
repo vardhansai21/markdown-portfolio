@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+i like to **code** and i like to play a lot of __mobile games__ so what _next_ i dont know lets *check*
